@@ -5,3 +5,4 @@ Git tracks changes of fles.
 Creating a new branch is quick & simple
 add merge
 add 789
+fix 456
