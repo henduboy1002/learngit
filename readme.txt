@@ -4,8 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of fles.
 Creating a new branch is quick & simple
 add merge
-add origin/dev by ours
-git rebase
-git soursetree
-add 456
-
+add 789
