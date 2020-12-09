@@ -6,3 +6,4 @@ Creating a new branch is quick & simple
 add merge
 add origin/dev by ours
 git rebase
+git soursetree
