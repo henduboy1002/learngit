@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of fles.
 Creating a new branch is quick & simple
 add merge
-add origin/dev
+add origin/dev by myself
